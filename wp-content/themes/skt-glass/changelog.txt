@@ -1,0 +1,7 @@
+Version 1.0
+1) Initial version release.
+
+Version 2.0
+1) Fixed bulk plugin installer issue of TGM.
+2) Replaced some deprecated codes.
+3) Fixed Elementor video popup issue.
